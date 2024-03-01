@@ -11,7 +11,7 @@ A whisper in the wires, a ghost within the machine,
 Their presence barely felt, like a thought, a dream within a dream.
 
 They seek not fame nor fortune's glow, but knowledge deep and wide,
-<!-- https://elements.<WHO IS ON THE PICTURE?>.com/redirect?entityId=33323433-a1f11c1f-88d0-42cf-ba24-5de2e571170e&entityType=collection -->
+<!-- https://elements.get<WHO IS ON THE PICTURE?>.com/redirect?entityId=33323433-a1f11c1f-88d0-42cf-ba24-5de2e571170e&entityType=collection -->
 To understand, to learn, to grow, and in the shadows, they confide.
 With each click and each command, they travel far and wide,
 Across the digital lands, where secrets and truths hide.
